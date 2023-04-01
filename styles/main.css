@@ -1,0 +1,154 @@
+body {
+
+    width: 900px;
+    margin: auto;
+
+
+}
+
+h2 {
+
+    text-align: center;
+}
+
+header  {
+    padding-top: 20px;
+    height: 500px;
+    background-image: url(../imagenes/imagen1.png);
+    background-position: center top;
+
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 80px;
+    text-align: center;
+
+}
+ 
+
+header p {
+    width: 300px;
+    height: 100px;
+    margin-left: 50px;
+    font-size: 30px;   
+    color: white; 
+    font-family: Arial, Helvetica, sans-serif;
+        background-color:#7299FE80;
+    margin-top: 100px;
+    text-align: center;
+    padding-top: 10px;
+}
+.sobremi {
+     padding-top: 20px;
+     font-size: 60;
+    color: blue;
+     background-color: cornflowerblue;
+}
+.sobremi p {
+    padding-top: 0%;
+    margin-left: 50px;
+    color: white;
+
+}
+   
+.sobremi button {
+   
+width: 180px;
+height: 70px;
+font-size:  30px;
+border-radius: 10px;
+margin-left: 50px;
+background-color:#D16FFF;
+color: white;
+margin-bottom: 70px;
+border: none;
+} 
+.skills {
+    background-color: #9022FF;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+
+.skills div {
+    margin: auto;
+    width: 300px;
+}
+
+.portafolio {
+        background-color: #FFD233;
+    
+}
+
+.portafolio img {
+        width: 70%;
+        margin-left: 130px;     
+}
+
+.clientes {
+    background-color: #3F4E62;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+
+.clientes img {
+        width: 70%;
+        margin-left: 100px;
+
+}
+
+footer {
+    background-color: #1687A0;
+    padding-bottom: 30px;
+    margin-top: 50px;
+}
+
+footer h1 {
+    color:red;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 15px;
+    
+}
+
+
+.formulario input{
+    padding: 15px 22px;
+    color:dimgray;
+    width: 30%;
+    margin-left: 100px;
+ 
+    border:0;
+}
+
+
+.formulario textarea{
+    width: 80%;
+    margin-left: 100px;
+    margin-right:10px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    color:dimgray;
+}
+
+.formulario .boton{
+    background-color:#233451;
+    padding: 8px 22px;
+    color:white;
+    border:none;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    font-size: 15px;
+    text-align: center;
+    margin-left: 400px;
+
+}
+
+div.contenedor{
+    width: 70px;
+    height: 50px;
+}
